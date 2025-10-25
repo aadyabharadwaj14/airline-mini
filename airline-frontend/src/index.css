@@ -1,0 +1,9 @@
+* { box-sizing: border-box; }
+body { margin: 0; font-family: system-ui, Arial, sans-serif; background:#fafafa; color:#222; }
+table { border-collapse: collapse; width: 100%; background: #fff; }
+th, td { border: 1px solid #e5e5e5; padding: 8px 10px; text-align: left; }
+thead { background: #f6f6f6; }
+input, select, button { padding: 8px; margin: 4px 0; }
+button { cursor: pointer; }
+pre { background:#111; color:#e6e6e6; padding:10px; border-radius:6px; overflow:auto; }
+.nav a.active { font-weight: 700; }

@@ -1,0 +1,23 @@
+# Node dependencies
+node_modules/
+*.log
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Mac system files
+.DS_Store
+
+# Build output
+dist/
+build/
+.vite/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Misc
+*.sqlite
